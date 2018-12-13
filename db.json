@@ -1,11 +1,102 @@
 {
   "stores": [
     {
-      "name": "McGlynn - Toy",
-      "status": 2,
-      "vatNumber": 75869747,
-      "logo": "http://lorempixel.com/640/480",
-      "id": "bdfaa68a-01ba-437a-9bce-59a1253591a0"
+      "id": "e3b0a949-aa79-47f3-862f-07911dfcd934",
+      "name": "Shuffletag",
+      "vatNumber": 169958,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 2
+    },
+    {
+      "id": "9e7e3b43-297f-42ef-8f54-01fc183c28c3",
+      "name": "Kwimbee",
+      "vatNumber": 502358,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "930e4377-e62b-416c-b7d6-052c8d7bd8a4",
+      "name": "Fanoodle",
+      "vatNumber": 857883,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "7bb5637e-f641-488d-b77d-30728bc8b592",
+      "name": "Avamba",
+      "vatNumber": 608830,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 2
+    },
+    {
+      "id": "321af772-a6e1-4e46-a910-6c30b9efc4c7",
+      "name": "Fliptune",
+      "vatNumber": 704322,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "72980dbd-e2c1-4f75-8d98-fdec9ee41fd8",
+      "name": "Kanoodle",
+      "vatNumber": 6715,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 2
+    },
+    {
+      "id": "2a1c23c7-19a3-444a-b00a-f4852aa1dd93",
+      "name": "Kazio",
+      "vatNumber": 914245,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 2
+    },
+    {
+      "id": "a22047cb-6b6e-4a84-8d25-a92f20a7b7cb",
+      "name": "Yodoo",
+      "vatNumber": 393101,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 0
+    },
+    {
+      "id": "14e78533-c172-4dea-bc63-54024356ad62",
+      "name": "Myworks",
+      "vatNumber": 805769,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "875b814c-3ae9-461c-ac5e-4d4ecccd1f21",
+      "name": "Dabtype",
+      "vatNumber": 624430,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "437c335e-557e-480b-a9d6-3f6f6b5e37b6",
+      "name": "Flipopia",
+      "vatNumber": 861528,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 2
+    },
+    {
+      "id": "182a51c6-75ae-4a72-94bb-ac0a6f077980",
+      "name": "Zoonoodle",
+      "vatNumber": 711031,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 0
+    },
+    {
+      "id": "ce6061cb-71f6-41cb-a9cc-afd3dd3b3655",
+      "name": "Digitube",
+      "vatNumber": 170765,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 1
+    },
+    {
+      "id": "5e9b42ac-bcbc-4786-972c-1ffa117c0b25",
+      "name": "Jabbertype",
+      "vatNumber": 658296,
+      "logo": "http://lorempixel.com/640/160",
+      "status": 0
     }
   ]
 }
